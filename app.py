@@ -42,7 +42,7 @@ st.sidebar.markdown("---")
 st.sidebar.header("📊 Dashboard")
 
 st.sidebar.write("**Version:** 3.0")
-st.sidebar.write("**Mode:** Simulation")
+st.sidebar.write("**Mode:** Real-Time Monitoring")
 st.sidebar.write("**Refresh Rate:** 1 sec")
 
 st.sidebar.markdown("---")
