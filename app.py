@@ -146,7 +146,7 @@ with status_col2:
     st.info(f"🕒 {current_time}")
 
 with status_col3:
-    st.warning("🔌 Arduino : OFFLINE")
+    st.success("🔌 Arduino : Connected")
 
 # ---------------- CARDS ----------------
 col1,col2,col3=st.columns(3)
